@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    width: 40%;
+    margin: auto;
+    color: blanchedalmond;
+    border: 3px solid blueviolet;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10%;
+}
